@@ -1,0 +1,18 @@
+{
+  "input_file": "temperaturesd.txt",
+  "date":
+    {
+      "year": 2024,
+      "month": 10,
+      "day": 25
+    },
+  "row_delimeter": "\n",
+  "cell_delimeter": ";",
+  "float_delimeter": ",",
+  "loco": {
+    "seria": "3T28",
+    "number": "405",
+    "section": "1"
+  }
+
+}
